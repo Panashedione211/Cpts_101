@@ -1,1 +1,2 @@
-# Cpts_101
+name: panashe dione
+wsu email: panashe.dione@wsu.edu
